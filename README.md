@@ -27,9 +27,9 @@ Export.image.toDrive({
 - The change layer is computed between two time periods. Each time period in itself can have time range and this code tries to use the maximum extent of water if more than 1 pass is present in each period.
 - Each time period should be atleast of of 1 month range.
 - More generalized selection of time period may be incorporated in future.
-- For short term comparisons, option to computer water layers between specific dates is also available in the second link below.
+- For short term comparisons, option to compute water layer between specific dates is also made available in the second link below.
 
 [Link to code on Earth Engine](https://code.earthengine.google.co.in/?scriptPath=users%2Fbharathkadapala%2FTools%3AWaterChange-S1)
-[Link to code on Earth Engine for short term comparisons](https://code.earthengine.google.co.in/?scriptPath=users%2Fbharathkadapala%2FTools%3AWaterChange-S1)
+[Link to code on Earth Engine for short term comparisons](https://code.earthengine.google.co.in/337ec2e93fe202d0c9c240afb4263b97)
 
 Please report any issues with this code. More sensors for similar application may be added in future.
