@@ -28,6 +28,6 @@ Export.image.toDrive({
 - Each time period should be atleast of of 1 month range.
 - More generalized selection of time period may be incorporated in future.
 
-[Link to ccde on Earth Engine](https://code.earthengine.google.co.in/?scriptPath=users%2Fbharathkadapala%2FTools%3AWaterChange-S1)
+[Link to code on Earth Engine](https://code.earthengine.google.co.in/?scriptPath=users%2Fbharathkadapala%2FTools%3AWaterChange-S1)
 
 Please report any issues with this code. More sensors for similar application may be added in future.
